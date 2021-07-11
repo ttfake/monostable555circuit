@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05062020-035578";"";
+"REFERENCE";"22-23-2031";"";
+"TraceParts.PartTitle";"2.54mm,header,KK,vert,Sn,frictn lock,3w";"";
+"TraceParts.InstanceId";"90-05062020-0355782N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"2.54mm,header,KK,vert,Sn,frictn lock,3w";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-05062020-035578";"";

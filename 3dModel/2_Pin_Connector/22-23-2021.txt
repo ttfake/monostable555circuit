@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04062020-056256";"";
+"REFERENCE";"22-23-2021";"";
+"TraceParts.PartTitle";"100 inch STRAIGHT HEADER";"";
+"TraceParts.InstanceId";"90-04062020-0562562N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"100 inch STRAIGHT HEADER";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-04062020-056256";"";
