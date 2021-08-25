@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Connectors_Custom")(type "KiCad")(uri "${KIPRJMOD}/Connectors_Custom.pretty")(options "")(descr ""))
+  (lib (name "Inverter")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Inverter.pretty")(options "")(descr ""))
 )
