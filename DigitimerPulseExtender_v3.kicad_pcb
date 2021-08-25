@@ -395,7 +395,7 @@
     (fp_line (start -1.27 -0.5) (end -0.562893 0) (layer "F.Fab") (width 0.1) (tstamp 82d0ae11-214b-489f-b7a1-f01560bac61e))
     (fp_line (start 3.81 2.88) (end 3.81 -2.92) (layer "F.Fab") (width 0.1) (tstamp d8889977-13e7-45db-866b-026be5f1e32c))
     (fp_line (start 3.81 -2.92) (end -1.27 -2.92) (layer "F.Fab") (width 0.1) (tstamp f011b5c5-3c60-4852-833f-fe0d49e4957d))
-    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.74 2.19) (drill 1.19) (layers *.Cu *.Mask) (roundrect_rratio 0.143678)
+    (pad "1" thru_hole roundrect locked (at 0 0) (size 1.74 2.19) (drill 1.19) (layers *.Cu *.Mask) (roundrect_rratio 0.1436781609)
       (net 2 "GND") (pinfunction "K") (pintype "passive") (tstamp 8e805b67-e015-4d83-91b9-a582b73feaf5))
     (pad "2" thru_hole oval locked (at 2.54 0) (size 1.74 2.19) (drill 1.19) (layers *.Cu *.Mask)
       (net 4 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c9e4a786-c0c3-4e45-8381-ff7adcd532e9))
